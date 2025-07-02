@@ -44,7 +44,7 @@ Whether you're managing a support team or optimizing ITSM workflows, this toolse
 
 ## 📁 Folder Structure
 
-```
+
 ├── api/                       # Flask app with endpoints
 ├── automation-rules/          # JSON rules for JIRA
 ├── dummy-data/                # Sample ticket datasets

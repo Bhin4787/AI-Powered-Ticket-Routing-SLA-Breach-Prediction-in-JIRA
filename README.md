@@ -100,21 +100,21 @@ python api/app.py
 ## 📚 Use Cases
 ```bash
 This solution is ideal for:
-	•	IT Support Teams managing SLA-heavy environments
-	•	Product Support Units handling large ticket volumes
-	•	DevOps teams seeking intelligent triage and automation
-	•	Startups and Enterprises using Atlassian JIRA for support workflows
+• IT Support Teams managing SLA-heavy environments
+• Product Support Units handling large ticket volumes
+• DevOps teams seeking intelligent triage and automation
+• Startups and Enterprises using Atlassian JIRA for support workflows
 ```
 ⸻
 
 🧠 Tech Stack
 ```bash
-	•	Python: Core scripting and model orchestration
-	•	Scikit-learn / XGBoost: Model training and tuning
-	•	NLTK / spaCy: Text preprocessing and tokenization
-	•	Flask: Lightweight REST API for integration
-	•	Pandas / Matplotlib / Seaborn: Reporting and analytics
-	•	JIRA REST API: For ticket access and updates
+• Python: Core scripting and model orchestration
+• Scikit-learn / XGBoost: Model training and tuning
+• NLTK / spaCy: Text preprocessing and tokenization
+• Flask: Lightweight REST API for integration
+• Pandas / Matplotlib / Seaborn: Reporting and analytics
+• JIRA REST API: For ticket access and updates
 ```
 ---
 

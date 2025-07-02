@@ -7,9 +7,12 @@
 
 
 🔮 **Revolutionize your support operations using AI-based automation in JIRA**  
-🚀 Boost SLA compliance.
-📊 Automate ticket classification. 
-⚙️ Predict resolution delays, all with Python and machine learning.
+
+- 🚀 Boost SLA compliance.
+
+- 📊 Automate ticket classification. 
+
+- ⚙️ Predict resolution delays, all with Python and machine learning.
 
 ---
 
@@ -24,9 +27,13 @@ Whether you're managing a support team or optimizing ITSM workflows, this toolse
 ## 💡 Key Features
 
 - ✅ **Automated Ticket Classification:** Classify new JIRA issues by category (e.g., Bug, Feature, Incident) using natural language processing (NLP).
+  
 - ⏱ **SLA Breach Prediction:** Predict whether an open issue is at risk of missing its SLA based on historical ticket patterns.
+  
 - 📤 **Auto-routing Logic:** Assign issues to the most appropriate support group based on AI tagging and JIRA custom fields.
+  
 - 📈 **Interactive Dashboards:** Visualize ticket risk levels, SLA trends, and issue heatmaps via reporting dashboards.
+  
 - 🔌 **API Integration Ready:** Easily integrate the solution into existing JIRA workflows and CI/CD pipelines.
 
 ---

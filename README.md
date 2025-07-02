@@ -7,7 +7,7 @@
 
 
 🔮 **Revolutionize your support operations using AI-based automation in JIRA**  
-🚀 Boost SLA compliance. 📊 Automate ticket classification. ⚙️ Predict resolution delays — all with Python and machine learning.
+🚀 Boost SLA compliance. 📊 Automate ticket classification. ⚙️ Predict resolution delays, all with Python and machine learning.
 
 ---
 

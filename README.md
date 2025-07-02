@@ -39,12 +39,12 @@ Whether you're managing a support team or optimizing ITSM workflows, this toolse
 ├── /api/                 → Flask-based RESTful API for automation
 ├── /screenshots/         → Sample outputs and workflow screenshots
 └── README.md             → Project documentation
-
+```
 ---
 
 ## 📁 Folder Structure
 
-
+```bash
 ├── api/                       # Flask app with endpoints
 ├── automation-rules/          # JSON rules for JIRA
 ├── dummy-data/                # Sample ticket datasets

